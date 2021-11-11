@@ -1,1 +1,1 @@
-Houghton M., Head D., Walkley M. “A Numerical Model for Random Fibre Networks”. LNCS, vol 11189, p. 408, Springer, 2019.
+I'm currently working as a consultant and mobile engineer, based in the UK, but I previously worked for a number of years with software in a research setting during my PhD in Computational Engineering. Before that I did my integrated Masters in Mathematics at the University of Leeds.
