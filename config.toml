@@ -1,0 +1,55 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+theme = "anatole"
+
+[params]
+title = "Mark Houghton"
+author = "Mark Houghton"
+description = "Consultant, Mobile Engineer, PhD"
+profilePicture = "images/profile.jpeg"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/mark-r-houghton/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/markrhoughton"
+
+[[params.socialIcons]]
+icon = "fab fa-medium"
+title = "Medium"
+url = "https://medium.com/@markrhoughton3/about"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:markrhoughton3@gmail.com"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Mobile"
+  weight = 200
+  identifier = "mobile"
+  url = "/mobile/"
+
+  [[menu.main]]
+  name = "Projects"
+  weight = 300
+  identifier = "projects"
+  url = "/projects/"
+
+  [[menu.main]]
+  name = "About Me"
+  weight = 400
+  identifier = "about"
+  url = "/about/"
