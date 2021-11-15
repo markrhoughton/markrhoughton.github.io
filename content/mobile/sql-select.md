@@ -1,7 +1,7 @@
 ---
 title: "SQL Refresher: SELECT"
 date: 2021-11-15T17:40:46Z
-draft: true
+draft: false
 ---
 
 As part of me becoming more familiar with Room, I decided to make some notes on SQL to serve as a bit of a cheat sheet that I can refer back to. This first post covers `SELECT` statement.
