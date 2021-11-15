@@ -7,6 +7,7 @@ title = "Mark Houghton"
 author = "Mark Houghton"
 description = "Consultant, Mobile Engineer, PhD"
 profilePicture = "images/profile.jpeg"
+mainSections = []
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
