@@ -8,6 +8,8 @@ author = "Mark Houghton"
 description = "Consultant, Mobile Engineer, PhD"
 profilePicture = "images/profile.jpeg"
 mainSections = []
+gtagId = "G-X10N2G1TN5"
+# doNotLoadAnimations = true # Animations are loaded by default
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
@@ -44,10 +46,10 @@ url = "mailto:markrhoughton3@gmail.com"
   url = "/mobile/"
 
   [[menu.main]]
-  name = "Projects"
+  name = "Portfolio"
   weight = 300
-  identifier = "projects"
-  url = "/projects/"
+  identifier = "portfolio"
+  url = "/portfolio/"
 
   [[menu.main]]
   name = "About Me"
