@@ -55,4 +55,17 @@ url = "mailto:markrhoughton3@gmail.com"
   name = "About Me"
   weight = 400
   identifier = "about"
-  url = "/about/"
+
+  [[menu.main]]
+  name = "iOS"
+  weight = 410
+  identifier = "ios"
+  url = "/ios/"
+  parent = "about"
+
+  [[menu.main]]
+  name = "Android"
+  weight = 420
+  identifier = "android"
+  url = "/android/"
+  parent = "about"
