@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hugo on</title><link>http://example.org/tags/hugo/</link><description>Recent content in hugo on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 26 Aug 2022 17:34:56 +0100</lastBuildDate><atom:link href="http://example.org/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Up and Running</title><link>http://example.org/posts/getting-started/</link><pubDate>Fri, 26 Aug 2022 17:34:56 +0100</pubDate><guid>http://example.org/posts/getting-started/</guid><description>This site was made using Hugo, which has lowered the barrier to entry for me running my own blog.
+Every time I want to create a new post, I can just run
+hugo new some-new-post.md from the root directory of this repo.
+For a local server instance I run
+hugo server -D where the -D flag sets drafts to true, meaning I can view any posts that are still marked as drafts.</description></item></channel></rss>
