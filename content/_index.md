@@ -1,7 +1,7 @@
 ### Welcome
 Hi there, and welcome to my website. 
 I'm a consultant and mobile engineer, currently based in Leeds, UK.
-I'll be mainly using this space to collect thoughts and things and notes on all things *mobile*, as well as other areas that interest me.
+I'll be mainly using this space to collect notes, thoughts and things that are currently capturing my interest.
 Feel free to look around, or go to the about me page to learn a bit more about what makes me tick.
 
 Any questions, please reach out!
