@@ -8,6 +8,7 @@ author = "Mark Houghton"
 description = "Consultant, Mobile Engineer, PhD"
 profilePicture = "images/profile.jpeg"
 mainSections = []
+# doNotLoadAnimations = true # Animations are loaded by default
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
@@ -38,10 +39,10 @@ url = "mailto:markrhoughton3@gmail.com"
   url = "/"
 
   [[menu.main]]
-  name = "Mobile"
+  name = "Blog"
   weight = 200
-  identifier = "mobile"
-  url = "/mobile/"
+  identifier = "posts"
+  url = "/posts/"
 
   [[menu.main]]
   name = "Projects"
