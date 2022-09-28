@@ -9,5 +9,5 @@ For a local server instance I run
 hugo server -D where the -D flag sets drafts to true, meaning I can view any posts that are still marked as drafts.</description></item><item><title/><link>http://example.org/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/about/</guid><description>Consultant
 I like helping people solve problems. I&amp;rsquo;m currently working as a consultant based in the UK, with a focus on mobile engineering.
 Mobile Engineer
-I have experience with native app development for both Android (Kotlin) and iOS (Swift). My work has exposed me to both traditional approaches to UI development (xml layouts in Android, UIKit for iOS), and modern reactive approaches (Jetpack Compose, SwiftUI).
+I have experience with native app development for both Android (Kotlin) and iOS (Swift). My work has exposed me to both traditional approaches to UI development (xml layouts in Android, UIKit for iOS), and modern approaches (Jetpack Compose, SwiftUI).
 More recently, I&amp;rsquo;ve been working with tools such as Firebase to leverage data-driven approach to feature development, combining Analytics, Remote Config, Audiences and A/B testing to understand which features are most valuable to users.</description></item></channel></rss>
