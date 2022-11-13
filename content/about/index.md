@@ -4,7 +4,7 @@ I like helping people solve problems. I'm currently working as a consultant base
 
 **Mobile Engineer**
 
-I have experience with native app development for both Android (Kotlin) and iOS (Swift). My work has exposed me to both traditional approaches to UI development (xml layouts in Android, UIKit for iOS), and modern reactive approaches (Jetpack Compose, SwiftUI).
+I have experience with native app development for both Android (Kotlin) and iOS (Swift). My work has exposed me to both traditional approaches to UI development (xml layouts in Android, UIKit for iOS), and modern approaches (Jetpack Compose, SwiftUI).
 
 More recently, I've been working with tools such as Firebase to leverage data-driven approach to feature development, combining Analytics, Remote Config, Audiences and A/B testing to understand which features are most valuable to users. Prior to starting my consultancy career, I worked for a number of years with software in a research setting.
 
