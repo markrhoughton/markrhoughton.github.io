@@ -5,7 +5,7 @@ theme = "anatole"
 [params]
 title = "Mark Houghton"
 author = "Mark Houghton"
-description = "Consultant, Mobile Engineer, PhD"
+description = "Mobile Engineer, Consultant, PhD"
 profilePicture = "images/profile.jpeg"
 mainSections = []
 # doNotLoadAnimations = true # Animations are loaded by default
@@ -26,9 +26,14 @@ title = "Medium"
 url = "https://medium.com/@markrhoughton3/about"
 
 [[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/mhsindoni"
+
+[[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:markrhoughton3@gmail.com"
+url = "mailto:houghton.dev@outlook.com"
 
 [menu]
 
@@ -47,8 +52,8 @@ url = "mailto:markrhoughton3@gmail.com"
   [[menu.main]]
   name = "Projects"
   weight = 300
-  identifier = "projects"
-  url = "/projects/"
+  identifier = "portfolio"
+  url = "/portfolio/"
 
   [[menu.main]]
   name = "About Me"

@@ -1,0 +1,148 @@
+portfolioitems:
+  # portfolio category
+  - title: Apps
+    # items within a category
+    portfolioitem:
+      - name: Racing Gaming App (iOS)
+        description: 'Supported a small team to develop a replacement native app for a live web wrapper, rewriting an existing UIKit skeleton in SwiftUI. 
+Migrated the existing notification implementation to a new provider.
+Integrated a Cookie and SDK Compliance library.'
+        tags:
+          - iOS
+          - Swift
+          - SwiftUI
+          - NewRelic
+          - Postman
+          - CharlesProxy
+          - Figma
+        # status: 'Current'
+        # start: '2020'
+        authors:
+          - Infinity Works (Part of Accenture)
+      - name: Football Gaming App (iOS)
+        description: 'Delivered a full product rebrand, rebuilding many core parts of the app in SwiftUI. Specifically, I redesigned the homepage, building small reusable components and adopting MVVM to improve the separation of responsibilities between the view, view model and data.
+This rebrand required me to work closely with web squad to improve visibility of cross-product dependencies and facilitate communication around any needed API changes.
+'
+        tags:
+          - iOS
+          - Swift
+          - SwiftUI
+          - Testflight
+          - Firebase
+          - Analytics
+          - Bitrise
+          - AWS
+          - S3
+          - Cloudfront
+          - Rebrand
+          - Scrum
+        # status: 'Current'
+        # start: '2020'
+        authors:
+          - Infinity Works (Part of Accenture)
+      - name: Sports News App (iOS / Android)
+        description: 'Worked on a Firebase integration, leading to enhanced analytics, improved crash and performance monitoring, audience segmentation, and the introduction of remote config and A/B testing.
+As part of this integration I built a new analytics manager, to manage event sending to multiple providers.
+'
+        tags:
+          - Android
+          - Kotlin
+          - XML
+          - iOS
+          - Swift
+          - UIKit
+          - Firebase
+          - Crashlytics
+          - PerformanceMonitoring
+          - RemoteConfig
+          - ABTesting
+          - Audiences
+          - CloudMessaging
+          - InAppMessaging
+        # status: 'Finished'
+        # start: '2020'
+        # end: '2021'
+        authors:
+          - Infinity Works 
+      - name: Sports News App (Android)
+        description: 'Rebranded the existing app, collaborating with the designer and product owner to refine and estimate the required work.
+To successfully deliver this work, I proposed changes to our ways of working that led to quicker feedback from the product team, reducing work in progress and minimising context switching for the engineering team.
+Implemented In-App Reviews, resulting in a significant but consistent improvement in the Play Store rating
+'
+        tags:
+          - Android
+          - Kotlin
+          - XML
+          - NewRelic
+          - Zeplin
+          - Rebrand
+          - Kanban
+        # status: 'Finished'
+        # start: '2020'
+        # end: '2021'
+        authors:
+          - Infinity Works 
+  - title: Research
+    portfolioitem:
+      - name: 3D Numerical Model Development
+        link: https://github.com/M-R-Houghton/petsc_model/wiki
+        description: 'Developed a 3D numerical model in C using tools from the PETSc library to assemble and solve large sparse
+matrices, leading to novel mechanical property predictions for large random networks. Implementation was split into two iterations, the first of which combined C driven matrix assembly with MATLAB solvers. The second model iteration was written purely in C with calls to the PETSc library. Simple bash scripts were used throughout the project to automate aspects of workflow and streamline property analysis.'
+        tags:
+          - C
+          - PETSc
+          - Bash
+          - MATLAB
+          - Research
+        # status: 'Finished'
+        # start: '2020'
+        # end: '2021'
+        authors:
+          - University of Leeds
+      - name: Random Fibre Network Generator and Visualiser Development
+        description: 'Rewrote existing 2D fibre intersection algorithms to add periodicity support and catch edge cases. Developed 3D algorithms, allowing for on and off lattice generation of novel fibre networks. Added further fibre property based colouring schemes, resulting in visual insight to various network features.'
+        tags:
+          - C++
+          - OpenGL
+          - Research
+        authors:
+          - University of Leeds
+      - name: Lattice Based Network Generator Development
+        # image: '/images/portfolio/lattice_generator.png'
+        description: 'Implemented a 2D node driven lattice based fibre network generator, for aperiodic 2D triangular meshes. Added functionality for mesh dilution, allowing me to study rigidity transitions and validate my numerical model against literature.
+Added periodicity support for diluted meshes, significantly reducing finite size effects.
+'
+        tags:
+          - Python
+          - NumPy
+        authors:
+          - University of Leeds
+      - name: 2D Numerical Model Prototype Development
+        description: 'Prototyped a numerical model leading to successful prediction of the mechanical properties of 2D random
+fibre networks. To do this I divided the implementation into: model read/write of network data; local matrix/vector assembly; global system assembly from local information; solving a global system of equations; updating network data; and performing post-solve analysis.'
+        tags:
+          - Python
+          - JupyterNotebooks
+          - SymPy
+          - NumPy
+          - Pandas
+        authors:
+          - University of Leeds
+  - title: Other
+    # items within a category
+    portfolioitem:
+      - name: Black Pepper Club 
+        image: '/images/portfolio/bpc_logo.jpeg'
+        link: https://blackpepperclub.ck.page/
+        description: >
+          A food blog exploring dishes we've, places we've visited and recipes we've been inspired by. With a focus on Italian cuisine.
+        tags:
+          - Cooking
+          - Food
+          - Hobbies
+        # status: 'Finished'
+        # start: '2020'
+        # end: '2021'
+        # authors:
+        #   - Author 1
+        #   - Author 2
