@@ -135,7 +135,7 @@ fibre networks. To do this I divided the implementation into: model read/write o
         image: '/images/portfolio/bpc_logo.jpeg'
         link: https://blackpepperclub.ck.page/
         description: >
-          A food blog exploring dishes we've, places we've visited and recipes we've been inspired by. With a focus on Italian cuisine.
+          A food blog exploring dishes we've made, places we've visited and recipes we've been inspired by. With a focus on Italian cuisine.
         tags:
           - Cooking
           - Food
