@@ -132,7 +132,7 @@ fibre networks. To do this I divided the implementation into: model read/write o
     # items within a category
     portfolioitem:
       - name: Black Pepper Club 
-        image: '/images/portfolio/bpc_logo.jpeg'
+        image: '/images/portfolio/bpc_project.jpeg'
         link: https://blackpepperclub.ck.page/
         description: >
           A food blog exploring dishes we've made, places we've visited and recipes we've been inspired by. With a focus on Italian cuisine.
