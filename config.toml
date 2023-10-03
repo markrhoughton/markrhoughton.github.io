@@ -15,20 +15,20 @@ icon = "fab fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/mark-r-houghton/"
 
-[[params.socialIcons]]
-icon = "fab fa-github"
-title = "Github"
-url = "https://github.com/markrhoughton"
+# [[params.socialIcons]]
+# icon = "fab fa-github"
+# title = "Github"
+# url = "https://github.com/markrhoughton"
 
 [[params.socialIcons]]
 icon = "fab fa-medium"
 title = "Medium"
 url = "https://medium.com/@markrhoughton3/about"
 
-[[params.socialIcons]]
-icon = "fab fa-twitter"
-title = "Twitter"
-url = "https://twitter.com/mhsindoni"
+# [[params.socialIcons]]
+# icon = "fab fa-twitter"
+# title = "Twitter"
+# url = "https://twitter.com/mhsindoni"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
