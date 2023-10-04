@@ -8,6 +8,10 @@ author = "Mark Houghton"
 description = "Mobile Engineer, Consultant, PhD"
 profilePicture = "images/profile.jpeg"
 mainSections = []
+# displayMode = "light"
+disableThemeSwitcher = false
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 # doNotLoadAnimations = true # Animations are loaded by default
 
 [[params.socialIcons]]
