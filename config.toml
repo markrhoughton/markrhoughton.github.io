@@ -5,7 +5,7 @@ theme = "anatole"
 [params]
 title = "Mark Houghton"
 author = "Mark Houghton"
-description = "Mobile Engineer, Consultant, PhD"
+description = "Mobile Engineer, Flutter & iOS Dev, PhD"
 profilePicture = "images/profile.jpeg"
 mainSections = []
 # displayMode = "light"
@@ -27,7 +27,7 @@ url = "https://www.linkedin.com/in/mark-r-houghton/"
 [[params.socialIcons]]
 icon = "fab fa-medium"
 title = "Medium"
-url = "https://medium.com/@markrhoughton3/about"
+url = "https://medium.com/@markrhoughton3"
 
 # [[params.socialIcons]]
 # icon = "fab fa-twitter"
