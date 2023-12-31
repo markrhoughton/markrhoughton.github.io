@@ -3,9 +3,9 @@ languageCode = 'en-us'
 theme = "anatole"
 
 [params]
-title = "Mark Houghton"
+title = "Mark Houghton, PhD"
 author = "Mark Houghton"
-description = "Mobile Engineer, Flutter & iOS Dev, PhD"
+description = "Founder, SoonCall\niOS & Flutter Developer, Pocketworks"
 profilePicture = "images/profile.jpeg"
 mainSections = []
 # displayMode = "light"
@@ -29,10 +29,15 @@ icon = "fab fa-medium"
 title = "Medium"
 url = "https://medium.com/@markrhoughton3"
 
-# [[params.socialIcons]]
-# icon = "fab fa-twitter"
-# title = "Twitter"
-# url = "https://twitter.com/mhsindoni"
+[[params.socialIcons]]
+icon = "fab fa-instagram"
+title = "Twitter"
+url = "https://instagram.com/m.h.sindoni"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/mhsindoni"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"

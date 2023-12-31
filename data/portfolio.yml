@@ -3,6 +3,21 @@ portfolioitems:
   - title: Apps
     # items within a category
     portfolioitem:
+      - name: SoonCall 
+        image: '/images/portfolio/sooncall_icon.png'
+        link: https://sooncall.com
+        description: >
+          A social wellness app tackling the problem of how to keep in touch with long distance friends. SoonCall is fighting loneliness by making it easier to keep in touch with friends and family.
+        tags:
+          - SoonCall
+          - Wellness
+          - Loneliness
+          - LongDistanceFriendship
+        # status: 'Finished'
+        # start: '2020'
+        # end: '2021'
+        # authors:
+        #   - Author 1
       - name: Racing Gaming App (iOS)
         description: 'Supported a small team to develop a replacement native app for a live web wrapper, rewriting an existing UIKit skeleton in SwiftUI. 
 Migrated the existing notification implementation to a new provider.
