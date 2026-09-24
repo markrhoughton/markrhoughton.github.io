@@ -9,16 +9,16 @@ As part of me becoming more familiar with Room, I decided to make some notes on 
 
 ## SELECT Statements
 Read everything from the `places` database:
-```
+```sql
 SELECT * FROM places
 ```
 Read the `name` and `distance` columns, and limit to the first 5 results:
-```
+```sql
 SELECT name, distance FROM places
 LIMIT 5
 ```
 Get the names of all the beaches that are less than 100km away:
-```
+```sql
 SELECT name FROM places
 WHERE type = "beach"
 AND distance < 100
